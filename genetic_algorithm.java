@@ -65,6 +65,5 @@ class genetic_algorithm{
         }
         return population;
     }
-    
 
 }
